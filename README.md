@@ -1,2 +1,2 @@
 # SimpleRenderer
-A simple renderer
+A simple Raytracer
